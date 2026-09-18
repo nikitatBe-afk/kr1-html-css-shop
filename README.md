@@ -25,3 +25,7 @@
 
 ФИО: Бешляга Никита  
 Группа: ЭФБО-17-25
+
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://nikitatbe-afk.github.io/kr1-html-css-shop/
